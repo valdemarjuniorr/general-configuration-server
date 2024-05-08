@@ -1,2 +1,2 @@
 api:
-  chucknorris: https://google.com.br/
+  chucknorris: https://api.chucknorris.io/jokes/random
