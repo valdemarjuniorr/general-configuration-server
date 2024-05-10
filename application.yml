@@ -1,2 +1,2 @@
 api:
-  chucknorris: https://httpbin.org/get
+  chucknorris: https://api.chucknorris.io/jokes/random
